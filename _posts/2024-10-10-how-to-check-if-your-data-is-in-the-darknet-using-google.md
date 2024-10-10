@@ -32,7 +32,7 @@ To check your data, follow these steps:
    <img src="{{ site.baseurl }}/assets/images/20241010123446.png" alt="Step 3" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
 4. Go to the **Security** tab.
    <img src="{{ site.baseurl }}/assets/images/20241010123627.png" alt="Step 4" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
-5. Scroll down to **Darknet User Data Report**.
+5. Scroll down to **Dark web report**.
    <img src="{{ site.baseurl }}/assets/images/20241010123723.png" alt="Step 5" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
 6. Go to **See results**.
     <img src="{{ site.baseurl }}/assets/images/20241010124048.png" alt="Step 6" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
