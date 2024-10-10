@@ -1,15 +1,15 @@
 ---
+title: How to Check if Your Data Is in the Darknet Using Google
+date: 2024-10-10 10:31:00 Z
+categories:
+- security
+tags:
+- darknet
+- data protection
+- privacy
+- google
 layout: post
-title: "How to Check if Your Data Is in the Darknet Using Google"
-author: "eqozqq"
-date: 2024-10-10 10:31
-categories: 
-  - security
-tags: 
-  - darknet
-  - data protection
-  - privacy
-  - google
+author: eqozqq
 ---
 
 Google allows its users to check if their data is available on the Darknet.

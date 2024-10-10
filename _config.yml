@@ -1,52 +1,36 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+---
 title: eqozqq writes
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 brief-intro: nya~~ I'll write something here.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://eqozqq.github.io" # the base hostname & protocol for your site
-
-permalink: /:year/:month/:day/:title/
-
-# other links
-github_username:  eqozqq
+baseurl: ''
+url: https://eqozqq.github.io
+permalink: "/:year/:month/:day/:title/"
+github_username: eqozqq
 email: eqozqq@gmail.com
-
 description_footer: nya~~ I'll write something here.
-
-# comments
 disqus_shortname: eqozqq
-
-# Build settings
 markdown: kramdown
-
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
-# port
-# port: 1234
-
-# url
 category_dir: category/
 tag_dir: tag/
-
-# excerpt
-excerpt_separator: "\n\n\n\n"
-
-gems: 
-  - jekyll-paginate
-  - jekyll-sitemap
+excerpt_separator: |2+
 
 
-# paginate
+
+
+gems:
+- jekyll-paginate
+- jekyll-sitemap
 paginate: 10
 paginate_path: "/_posts/page:num/"
-
 plugins:
-  - jekyll-paginate
+- jekyll-paginate
