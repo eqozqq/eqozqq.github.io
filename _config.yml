@@ -9,7 +9,7 @@
 title: eqozqq writes
 brief-intro: nya~~ I'll write something here.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://eqozqq.github.io/" # the base hostname & protocol for your site
+url: "https://eqozqq.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
