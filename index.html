@@ -8,7 +8,7 @@ layout: default
       <small>nya~~ I'll write something here.</small>
         <hr>
         <ul>
-          {% for post in paginator.posts %}
+          {% for post in site.posts %}
             <li>
               <h2>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
