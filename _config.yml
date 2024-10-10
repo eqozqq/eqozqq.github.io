@@ -1,6 +1,6 @@
 ---
 title: eqozqq writes
-timezone: UTC
+timezone: Europe/Kiev
 collections:
   posts:
     title: Posts
@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 brief-intro: nya~~ I'll write something here.
-baseurl: ''
+baseurl: 
 url: https://eqozqq.github.io
 permalink: "/:year/:month/:day/:title/"
 github_username: eqozqq
