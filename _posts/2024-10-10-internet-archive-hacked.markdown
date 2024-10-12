@@ -1,6 +1,6 @@
 ---
 title: Internet Archive hacked
-date: 2024-10-10 15:07:00 Z
+date: 2024-10-10 18:07:00 +03:00
 categories:
 - Internet Archive
 - Wayback Machine
@@ -18,7 +18,7 @@ The database contains unique email addresses, Bcrypt encrypted passwords and oth
 Upon entering the site, visitors were greeted by a pop-up window that read:
 > “Have you ever felt like the Internet Archive is running on sticks and constantly on the verge of a catastrophic security breach? This just happened. See 31 million of you on HIBP!”.
 
-“HIBP is a data breach notification service called Have I Been Pwned, created by Troy Hunt, with whom threat actors typically share stolen data to add to the service.”
+HIBP is a data breach notification service called Have I Been Pwned, created by Troy Hunt, with whom threat actors typically share stolen data to add to the service.
 
 **It is recommended that you change the passwords to your accounts on the service.**.
 
