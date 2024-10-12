@@ -11,7 +11,7 @@ author: eqozqq
 layout: post
 ---
 
-**The «Wayback Machine» internet archive has suffered a data breach. A user authentication database containing 31 million unique records** has been stolen.
+**The «Wayback Machine» internet archive has suffered a data breach. A user authentication database containing 31 million unique records has been stolen.**
 
 The database contains unique email addresses, Bcrypt encrypted passwords and other internal user data. The last record in the database is dated September 28, 2024. This is likely the date on which the database was hacked.
 
